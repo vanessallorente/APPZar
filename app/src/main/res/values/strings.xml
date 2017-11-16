@@ -1,0 +1,14 @@
+<resources>
+    <string name="app_name">AppZar</string>
+    <string name="title_activity_maps">APPZar Map</string>
+    <string name="title_activity_como_llegar__activiy">APPZar: Cómo Llegar</string>
+
+    <string name="botonFin">ATRÁS</string>
+    <string name="botonMap">Cómo Llegar</string>
+    <string name="horario">HORARIO</string>
+    <string name="precio">PRECIO</string>
+
+    <!-- TODO: Remove or change this placeholder text -->
+    <string name="hello_blank_fragment">Hello blank fragment</string>
+
+</resources>
